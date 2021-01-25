@@ -1,7 +1,5 @@
 # My_MPV_Qt_demo
 
-[![sOnic9.md.png](https://s3.ax1x.com/2021/01/25/sOnic9.md.png)](https://imgchr.com/i/sOnic9)
-
 mpv是一个基于mplayer和mplayer2改版自由开源且开源的媒体播放器的命令行。它支持多种媒体文件格式、音频和视频编解码器以及字幕类型。它与vlc等库封装差不多，支援二次开发，通过读取和设置属性来处理任务。本篇文章将简单介绍如何使用libmpv和qt来二次开发一个GUI前端。
 
 [![sOnic9.md.png](https://s3.ax1x.com/2021/01/25/sOnic9.md.png)](https://imgchr.com/i/sOnic9)
